@@ -1,4 +1,4 @@
-package com.example.katas;
+package com.example.katas.spinwords;
 
 public class SpinWords {
 
